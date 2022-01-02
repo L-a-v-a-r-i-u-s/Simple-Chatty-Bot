@@ -1,4 +1,4 @@
-«=» Simple-Chatty-Bot «=»
+# Simple-Chatty-Bot
 ### This bot knows how to greet you 
 ### Knows how to count 
 ### Knows how to guess your age 
